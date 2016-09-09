@@ -1,0 +1,23 @@
+{
+  "name": "saysnap",
+  "version": "1.0.0",
+  "description": "nothing here, move along",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "saysnap": "./cmd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvayngrib/snappy"
+  },
+  "keywords": [],
+  "author": "Mark Vayngrib <mark@tradle.io> (http://github.com/mvayngrib)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvayngrib/snappy/issues"
+  },
+  "homepage": "https://github.com/mvayngrib/snappy"
+}
